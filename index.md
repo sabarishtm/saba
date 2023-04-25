@@ -1,5 +1,5 @@
 ---
-title: SUCCEEDING AT PRODUCT DEVELOPMENT![image](https://user-images.githubusercontent.com/73126998/234352989-b483846d-6ba2-4f47-8b94-74f3a65d3f03.png)
+title: SUCCEEDING AT PRODUCT DEVELOPMENT
 ---
 
 In the past few years, there has been an accelerated the trend toward a focus on products rather than services in Information Technology (IT). Traditional project-based delivery models are neither nimble nor scalable enough to realizing the digital transformation goals of an organization.
