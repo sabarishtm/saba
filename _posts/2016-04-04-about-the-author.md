@@ -1,10 +1,17 @@
 ---
 layout: post
 title: "About the Author"
-author: "Paul Le"
+author: "Sabarish Muthumperumal"
 categories: facts
 tags: [sample]
 image: cuba-2.jpg
 ---
 
-Hi there! I'm Paul. I’m a physics major turned programmer. Ever since I first learned how to program while taking a scientific computing for physics course, I have pursued programming as a passion, and as a career. Check out [my personal website](https://www.lenpaul.com/) for more information on my other projects (including more Jekyll themes!), as well as some of my writing.
+
+###Technology Director who loves building high-performance teams driven to deliver innovative business technology solutions
+
+I am a technology management professional with extensive experience in delivering large-scale multi-year multi-million-dollar technology implementation programs. I help customers to create technology strategies and develop roadmaps to uncover their Digital potential.
+
+I have expertise in Agile software delivery, application development, program governance, solution architecture, technology integration, and customer demand discovery. I am adept at using data analytics to improve team productivity and performance.
+
+I hold a Master of Science degree in Technology Management from Columbia University (New York) and a Bachelor’s degree in engineering from Bangalore University.
