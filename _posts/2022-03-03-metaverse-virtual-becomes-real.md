@@ -17,7 +17,7 @@ The Internet’s ubiquity has altered how we bank, shop, socialize, work, listen
 
 In October 2021, Mark Zuckerberg introduced the term “metaverse” to the world while rechristening his company as Meta. While the erstwhile Facebook’s Meta does not yet enjoy the ubiquity of a Google or Zoom, it is perhaps only a matter of time before it does. Well, perhaps not.
 
-INSERT IMAGE
+![image](https://user-images.githubusercontent.com/73126998/234572845-c34b83d1-4207-4bdf-8ad0-3060b830c1d9.png)
 
 Snow Crash author Neal Stephenson came up with the name Metaverse for a virtual world he imagined in his book. The dystopic futuristic novel paints a gloomy picture of an anarcho-capitalistic world that is run by huge private businesses. From the outset, centralized services governed by powerful corporations have been the very anathema of the premise of the Metaverse.
 
@@ -41,7 +41,7 @@ The idea of virtual worlds and the Metaverse isn’t new. It’s just that now w
 
 The first graphical virtual world, known as Habitat, was launched on the Commodore 64 in 1985 by Lucasfilm Games. Second Life has been the leader in virtual world platforms that let people make avatars and have a second life online since it started in 2003.
 
-
+![image](https://user-images.githubusercontent.com/73126998/234573066-69d7d1d3-3e31-4123-a382-31e14ae20f60.png)
 Figure 1 A Brief History of the Metaverse
 
 Over the decades, numerous developments including smartphones, cryptocurrencies, distributed ledgers, Virtual reality hardware, online multi-player platforms have been made.
@@ -55,6 +55,7 @@ So, when Sir Tim Berners-Lee auctioned the original source code for the world wi
 The Metaverse “stack” consists of the Network, the Hardware, the Compute resources, the supporting Platforms, the Interop Standards, the Payments mechanisms, the enabling Services and the Users.
 
 
+![image](https://user-images.githubusercontent.com/73126998/234573133-f31a532d-3941-4261-9a82-d833015835a2.png)
 
 Figure 2 The Metaverse Stack
 Many of the technology components that make up the metaverse have been around for a long time and are mature, powerful, and ready to be used right away. Other parts of the metaverse are still in the early stages of development and may not be ready for years.
@@ -158,6 +159,22 @@ Retail	According to CNBC, Walmart submitted seven applications with the US Paten
 Fashion	Roblox has hosted special product releases from premium fashion labels, co-created games, and enticed players to access these “things” in return for digital money.	Trying on clothes before you buy them. Virtual weddings call for virtual clothes. (Rent-a-tux for your avatar).
 
 
+
+
+
+# HOW DOES ONE PREPARE FOR THE METAVERSE?
+With so many moving parts and an evolving technology stack, it is imperative that leaders identify, train, and empower team members for the specialized skills that will be needed. One can foresee the following job titles and core skill groups becoming relevant:
+
+| Job Title | Skills  |  Today’s Parallels| 
+| ---       |---      |---                |
+| Experience Architects   | Storytelling, game development and conjuring innovative new 3D experiences  | User Experience designers, game developers, and business analysts|
+| World Builders	        | Developing the experiences within the chosen Metaverse platforms	          | Software developers and Graphics designers|
+| XR Specialists	        | Digital anthropology and skills in various Augmented, Virtual, and Mixed Reality systems | User Interface developers|
+| Ecosystem Developers	  | Software and hardware interoperability and platforms development	| Enterprise Architects|
+| Cyber-security Experts	| Securing a multitude of new technology interfaces, platforms, sensors. Ability to identify digital fakes	| Cyber-security Experts|
+| Hardware Specialists	  | Traditional infrastructure (hardware, cloud services) and sensory hardware technologies (AR goggles, haptic sensors, etc.,)	| Infrastructure and Systems Support|
+
+Metaverse Jobs
 
 The beauty of computer programming is that you do not need to formally go to school to learn how to program. You can learn almost everything that you would need to know online, and for free. The following resources are some that I have used personally, that I highly recommend, for anyone looking to learn more about computer programming.
 
