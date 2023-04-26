@@ -4,7 +4,7 @@ title: "Metaverse: Virtual Becomes Real"
 author: "Sabarish Muthumperumal"
 categories: resources
 tags: [technology]
-image: https://user-images.githubusercontent.com/73126998/234572845-c34b83d1-4207-4bdf-8ad0-3060b830c1d9.png
+image: metaverse.png
 ---
 
 
