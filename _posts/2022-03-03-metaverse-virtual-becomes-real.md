@@ -2,7 +2,7 @@
 layout: post
 title: "Metaverse: Virtual Becomes Real"
 author: "Sabarish Muthumperumal"
-categories: resources
+categories: technology
 tags: [technology]
 image: metaverse.png
 ---
