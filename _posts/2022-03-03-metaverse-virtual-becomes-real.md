@@ -17,7 +17,7 @@ The Internet’s ubiquity has altered how we bank, shop, socialize, work, listen
 
 In October 2021, Mark Zuckerberg introduced the term “metaverse” to the world while rechristening his company as Meta. While the erstwhile Facebook’s Meta does not yet enjoy the ubiquity of a Google or Zoom, it is perhaps only a matter of time before it does. Well, perhaps not.
 
-INSERT IMAGE
+![image](https://user-images.githubusercontent.com/73126998/234572845-c34b83d1-4207-4bdf-8ad0-3060b830c1d9.png)
 
 Snow Crash author Neal Stephenson came up with the name Metaverse for a virtual world he imagined in his book. The dystopic futuristic novel paints a gloomy picture of an anarcho-capitalistic world that is run by huge private businesses. From the outset, centralized services governed by powerful corporations have been the very anathema of the premise of the Metaverse.
 
@@ -41,7 +41,7 @@ The idea of virtual worlds and the Metaverse isn’t new. It’s just that now w
 
 The first graphical virtual world, known as Habitat, was launched on the Commodore 64 in 1985 by Lucasfilm Games. Second Life has been the leader in virtual world platforms that let people make avatars and have a second life online since it started in 2003.
 
-
+![image](https://user-images.githubusercontent.com/73126998/234573066-69d7d1d3-3e31-4123-a382-31e14ae20f60.png)
 Figure 1 A Brief History of the Metaverse
 
 Over the decades, numerous developments including smartphones, cryptocurrencies, distributed ledgers, Virtual reality hardware, online multi-player platforms have been made.
@@ -55,6 +55,7 @@ So, when Sir Tim Berners-Lee auctioned the original source code for the world wi
 The Metaverse “stack” consists of the Network, the Hardware, the Compute resources, the supporting Platforms, the Interop Standards, the Payments mechanisms, the enabling Services and the Users.
 
 
+![image](https://user-images.githubusercontent.com/73126998/234573133-f31a532d-3941-4261-9a82-d833015835a2.png)
 
 Figure 2 The Metaverse Stack
 Many of the technology components that make up the metaverse have been around for a long time and are mature, powerful, and ready to be used right away. Other parts of the metaverse are still in the early stages of development and may not be ready for years.
@@ -145,19 +146,30 @@ For example,
 
 | Industry | Today | Tomorrow? |
 | --- | --- | --- |
-| Manufacturing | Microsoft teamed up with a UK-based consortium to train 3,500 factory workers on making life-saving ventilators. The effort leveraged one hundred Microsoft HoloLens 2 devices and mixed reality to create an “augmented reality” factory. | It may soon be a thing of the past for people to work with dangerous machinery in dangerous environments. AR headsets aid in the development of new products by allowing users to see them in 3D before they are manufactured.| 
+| Manufacturing | Microsoft teamed up with a UK-based consortium to train 3,500 factory workers on making life-saving ventilators. The effort leveraged one hundred Microsoft HoloLens 2 devices and mixed reality to create an “augmented reality” factory. | It may soon be a thing of the past for people to work with dangerous machinery in dangerous environments. AR headsets aid in the development of new products by allowing users to see them in 3D before they are manufactured.|
+| Banking | Several Korean banks including The Industrial Bank of Korea and KB Kookmin Bank are actively developing with partners and racing to open a virtual branch office in the metaverse	| A virtual bank in the Metaverse staffed by branch manager avatars is not too far from reality.|
+| Healthcare	| Clinicians at Duke University utilized HoloLens to superimpose a rebuilt CT image on a patient’s head instead of using regular CT scans and markers to assist with hundreds of complex brain surgery procedures.	| Doctors without borders. Microsoft HoloLens has already helped hundreds of difficult medical surgeries. Doctors may be able to perform these complex procedures remotely if they have access to high-quality, always-on connectivity.|
+| Gaming & Entertainment	| Disney has launched the “Theme Park Metaverse” and has been granted a patent for a “virtual-world simulator in a real-world venue”. Roblox & Epic games have each successfully staged and sold live virtual performances utilizing independent digital money during pandemic lockdowns.	| Virtual vacations? No need to be physically present in Florida to enjoy Disney World.Virtual roller coasters and rides; perhaps even a virtual waiting line for a more authentic experience?|
+| Architecture & Design | Autodesk is investigating its 3D design skills for AR and VR metaverse applications. Nvidia is working on Nvidia Omniverse, a 3D virtual metaverse for architectural design and collaboration tools. | Hopefully, our virtual offices will be better looking than the physical ones.|
+|Offices Collaboration | For immersive conferencing, Microsoft is creating mixed reality spectacles called HoloLens that combine collaboration tools and Xbox game features. By using AR and smart glasses to boost mobility and multi-device accessibility, users may participate in immersive 3D avatar-led meetings. | Immersive board room experience while sitting in your basement. Collaborate and create in real-time with colleagues across the globe in front of virtual whiteboards, attend virtual face-to-face meetings, maintain eye contact and observe subtle facial cues.|
+| Event Management | In April 2020, Travis Scott performed for almost 30 million people in the computer game Fortnite. Microsoft’s AltspaceVR allows real musical performances to be live broadcast as a hologram onto a virtual stage. Chennai-based Dinesh and Janaganandhini Ramaswamy hosted their Hogwarts-themed wedding reception in the Metaverse. | Weddings in the Metaverse will become more mainstream. Conferences and trade shows will only be limited by imagination and not your ability to travel. Tradition meets technology. Visualize virtual Kancheepurams and Digital Mysore Silks. NFTs suddenly makes a lot of sense, doesn’t it?|
+|Real Estate | Through its 3D virtual office environment on Virbela, eXp Realty offers 24/7 access to collaboration tools, training, and socializing for over 30,000 real estate brokers and agents. In November 2021, a property near the “Fashion Street District” was sold for $2,410,200.00 on the Decentraland VR platform. | Real estate agents can organize remote virtual open houses Virtual real estate agents to help close on that “dream” virtual property.|
+| Retail | According to CNBC, Walmart submitted seven applications with the US Patent and Trademark Office in December detailing its ambitions to develop its own cryptocurrency, NFTs, payment system, and e-wallets. Zara, Nike, Adidas, and H&M have opened their Metaverse store presence. | The next-generation shopping experience, without the parking hazzleImagine a shoe shopping trip to Dubai, New York, Paris, and London on the same day with all your friends|
+| Fashion | Roblox has hosted special product releases from premium fashion labels, co-created games, and enticed players to access these “things” in return for digital money. | Trying on clothes before you buy them. Virtual weddings call for virtual clothes. (Rent-a-tux for your avatar).|
 
-Banking	Several Korean banks including The Industrial Bank of Korea and KB Kookmin Bank are actively developing with partners and racing to open a virtual branch office in the metaverse	A virtual bank in the Metaverse staffed by branch manager avatars is not too far from reality.
-Healthcare	Clinicians at Duke University utilized HoloLens to superimpose a rebuilt CT image on a patient’s head instead of using regular CT scans and markers to assist with hundreds of complex brain surgery procedures.	Doctors without borders. Microsoft HoloLens has already helped hundreds of difficult medical surgeries. Doctors may be able to perform these complex procedures remotely if they have access to high-quality, always-on connectivity.
-Gaming & Entertainment	Disney has launched the “Theme Park Metaverse” and has been granted a patent for a “virtual-world simulator in a real-world venue”. Roblox & Epic games have each successfully staged and sold live virtual performances utilizing independent digital money during pandemic lockdowns.	Virtual vacations? No need to be physically present in Florida to enjoy Disney World.Virtual roller coasters and rides; perhaps even a virtual waiting line for a more authentic experience?
-Architecture & Design	Autodesk is investigating its 3D design skills for AR and VR metaverse applications. Nvidia is working on Nvidia Omniverse, a 3D virtual metaverse for architectural design and collaboration tools.	Hopefully, our virtual offices will be better looking than the physical ones.
-Offices Collaboration	For immersive conferencing, Microsoft is creating mixed reality spectacles called HoloLens that combine collaboration tools and Xbox game features. By using AR and smart glasses to boost mobility and multi-device accessibility, users may participate in immersive 3D avatar-led meetings.	Immersive board room experience while sitting in your basement. Collaborate and create in real-time with colleagues across the globe in front of virtual whiteboards, attend virtual face-to-face meetings, maintain eye contact and observe subtle facial cues. 
-Event Management	In April 2020, Travis Scott performed for almost 30 million people in the computer game FortniteMicrosoft’s AltspaceVR allows real musical performances to be live broadcast as a hologram onto a virtual stage. Chennai-based Dinesh and Janaganandhini Ramaswamy hosted their Hogwarts-themed wedding reception in the Metaverse.	Weddings in the Metaverse will become more mainstream. Conferences and trade shows will only be limited by imagination and not your ability to travel. Tradition meets technology. Visualize virtual Kancheepurams and Digital Mysore Silks. NFTs suddenly makes a lot of sense, doesn’t it?
-Real Estate	Through its 3D virtual office environment on Virbela, eXp Realty offers 24/7 access to collaboration tools, training, and socializing for over 30,000 real estate brokers and agents. In November 2021, a property near the “Fashion Street District” was sold for $2,410,200.00 on the Decentraland VR platform.	Real estate agents can organize remote virtual open houses Virtual real estate agents to help close on that “dream” virtual property. 
-Retail	According to CNBC, Walmart submitted seven applications with the US Patent and Trademark Office in December detailing its ambitions to develop its own cryptocurrency, NFTs, payment system, and e-wallets. Zara, Nike, Adidas, and H&M have opened their Metaverse store presence.	The next-generation shopping experience, without the parking hazzleImagine a shoe shopping trip to Dubai, New York, Paris, and London on the same day with all your friends
-Fashion	Roblox has hosted special product releases from premium fashion labels, co-created games, and enticed players to access these “things” in return for digital money.	Trying on clothes before you buy them. Virtual weddings call for virtual clothes. (Rent-a-tux for your avatar).
+# HOW DOES ONE PREPARE FOR THE METAVERSE?
+With so many moving parts and an evolving technology stack, it is imperative that leaders identify, train, and empower team members for the specialized skills that will be needed. One can foresee the following job titles and core skill groups becoming relevant:
 
+| Job Title | Skills  |  Today’s Parallels| 
+| ---       |---      |---                |
+| Experience Architects   | Storytelling, game development and conjuring innovative new 3D experiences  | User Experience designers, game developers, and business analysts|
+| World Builders	        | Developing the experiences within the chosen Metaverse platforms	          | Software developers and Graphics designers|
+| XR Specialists	        | Digital anthropology and skills in various Augmented, Virtual, and Mixed Reality systems | User Interface developers|
+| Ecosystem Developers	  | Software and hardware interoperability and platforms development	| Enterprise Architects|
+| Cyber-security Experts	| Securing a multitude of new technology interfaces, platforms, sensors. Ability to identify digital fakes	| Cyber-security Experts|
+| Hardware Specialists	  | Traditional infrastructure (hardware, cloud services) and sensory hardware technologies (AR goggles, haptic sensors, etc.,)	| Infrastructure and Systems Support|
 
+Metaverse Jobs
 
 The beauty of computer programming is that you do not need to formally go to school to learn how to program. You can learn almost everything that you would need to know online, and for free. The following resources are some that I have used personally, that I highly recommend, for anyone looking to learn more about computer programming.
 
