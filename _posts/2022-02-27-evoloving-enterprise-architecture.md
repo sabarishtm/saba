@@ -97,9 +97,9 @@ Identify the business needs for the information, the nature of the information, 
 For example,
 |Data Type | Data Complexity | Data Changes | Communication | Examples | Consider Using |
 |--- |--- |--- |--- |--- |--- | 
-|Transaction Data           | Simple            | Real-time / Near-Real-time | One-to-One	Payment processing during e-commerce checkout	REST
-|Process Status	            | Simple – Medium	| Infrequent	             | One-to-One-to-One	Shipping status provided by shipper on merchant’s site	Embedded Web Components
-|Continuous Stream	        | Complex	        | Real-time	                 | One-to-One / One-to-Many	Stock tickers	Kafka stream
+|Transaction Data           | Simple            | Real-time / Near-Real-time | One-to-One	Payment processing during e-commerce checkout| REST|
+|Process Status	            | Simple – Medium	| Infrequent	             | One-to-One-to-One	Shipping status provided by shipper on merchant’s site | Embedded Web Components|
+|Continuous Stream	        | Complex	        | Real-time	                 | One-to-One / One-to-Many | Stock tickers| Kafka stream|
 |Event/ Transaction Data	| Medium – High	    | Real-time	| Bi-directional, One-to-One | Chat, Games | WebSocket| 
 |Business Data	            | Any	            | Weekly | One-to-One	     | Analysis reports | Managed File Transfer|
 |Business Data/Events	    | Any	            | Real-time | Many-to-Many | Complex interactions between multiple interested parties | Event hub|
