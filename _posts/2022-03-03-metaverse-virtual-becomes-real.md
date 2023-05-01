@@ -17,8 +17,6 @@ The Internet’s ubiquity has altered how we bank, shop, socialize, work, listen
 
 In October 2021, Mark Zuckerberg introduced the term “metaverse” to the world while rechristening his company as Meta. While the erstwhile Facebook’s Meta does not yet enjoy the ubiquity of a Google or Zoom, it is perhaps only a matter of time before it does. Well, perhaps not.
 
-![image](https://user-images.githubusercontent.com/73126998/234572845-c34b83d1-4207-4bdf-8ad0-3060b830c1d9.png)
-
 Snow Crash author Neal Stephenson came up with the name Metaverse for a virtual world he imagined in his book. The dystopic futuristic novel paints a gloomy picture of an anarcho-capitalistic world that is run by huge private businesses. From the outset, centralized services governed by powerful corporations have been the very anathema of the premise of the Metaverse.
 
 The Metaverse could be the next generation of our continuously evolving online experience and has even been called the “successor to the internet”. This post explores the various components that make up the Metaverse, and examines the current state of development, the significant players, future direction, challenges, and opportunity.
