@@ -17,8 +17,6 @@ The Internet’s ubiquity has altered how we bank, shop, socialize, work, listen
 
 In October 2021, Mark Zuckerberg introduced the term “metaverse” to the world while rechristening his company as Meta. While the erstwhile Facebook’s Meta does not yet enjoy the ubiquity of a Google or Zoom, it is perhaps only a matter of time before it does. Well, perhaps not.
 
-![image](https://user-images.githubusercontent.com/73126998/234572845-c34b83d1-4207-4bdf-8ad0-3060b830c1d9.png)
-
 Snow Crash author Neal Stephenson came up with the name Metaverse for a virtual world he imagined in his book. The dystopic futuristic novel paints a gloomy picture of an anarcho-capitalistic world that is run by huge private businesses. From the outset, centralized services governed by powerful corporations have been the very anathema of the premise of the Metaverse.
 
 The Metaverse could be the next generation of our continuously evolving online experience and has even been called the “successor to the internet”. This post explores the various components that make up the Metaverse, and examines the current state of development, the significant players, future direction, challenges, and opportunity.
@@ -169,20 +167,3 @@ With so many moving parts and an evolving technology stack, it is imperative tha
 | Hardware Specialists	  | Traditional infrastructure (hardware, cloud services) and sensory hardware technologies (AR goggles, haptic sensors, etc.,)	| Infrastructure and Systems Support|
 
 Metaverse Jobs
-
-The beauty of computer programming is that you do not need to formally go to school to learn how to program. You can learn almost everything that you would need to know online, and for free. The following resources are some that I have used personally, that I highly recommend, for anyone looking to learn more about computer programming.
-
-
-
-
-## [Free Code Camp](https://www.freecodecamp.org/)
-
-My personal favourite for learning full stack web development. They offer a great front and back end curriculum that requires you to complete a variety of projects in order to apply the knowledge that you learn during the lessons. As a bonus, at the end of the curriculum you will have a few impressive projects under your belt for your portfolio.
-
-## [Codecademy](https://www.codecademy.com/)
-
-Not only does Codecademy have many great courses on various web development languages such as [HTML](https://www.codecademy.com/learn/learn-html), [CSS](https://www.codecademy.com/learn/learn-css), and [JavaScript](https://www.codecademy.com/learn/introduction-to-javascript), but they even offer a course on [how to deploy a Jekyll site](https://www.codecademy.com/learn/deploy-a-website). If you are completely new to Jekyll, I would recommend working through that course as a great start for learning how to deploy your Jekyll site.
-
-## [Khan Academy](https://www.khanacademy.org/)
-
-A great resource not only for learning mathematics (what most people probably know Khan Academy for), but also [computer programming](https://www.khanacademy.org/computing/computer-programming). What Khan Academy offers that is different from the other two above resources is that it offers courses in [computer science related](https://www.khanacademy.org/computing/computer-science) topics, such as [algorithms](https://www.khanacademy.org/computing/computer-science/algorithms) and [cryptography](https://www.khanacademy.org/computing/computer-science/cryptography). This is unique in that most online resources mostly focus on the programming side of things.
