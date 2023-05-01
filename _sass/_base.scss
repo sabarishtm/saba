@@ -15,6 +15,7 @@ dl, dd, ol, ul, figure {
 
 /* Headings */
 h1, h2, h3, h4, h5, h6 {
+  font-family: $base-font-family;
   margin-bottom: .5rem;
   font-weight: bold;
   line-height: 1.25;
@@ -39,7 +40,7 @@ h4, h5, h6 {
 
 /* Body */
 body {
-  font-family: $base-font-family;
+  font-family: $body-font-family;
 }
 body img {
   align: middle;
