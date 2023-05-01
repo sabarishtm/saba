@@ -30,9 +30,8 @@ A game? A social media platform? A cryptocurrency? Virtual reality? Web 3.0?
 The metaverse means several things to several people; and that is because it is not a single tool, device, experience, or even a single platform.
 
 # A DEFINITION
-The Metaverse is a massively scaled and interoperable network of real-time rendered 3D virtual worlds which can be experienced synchronously and persistently by an effectively unlimited number of users with an individual sense of presence, and with continuity of data, such as identity, history, entitlements, objects, communications, and payments.
-
-Matthew Ball, venture capitalist and author of the [Metaverse Primer](https://www.matthewball.vc/about)
+> The Metaverse is a massively scaled and interoperable network of real-time rendered 3D virtual worlds which can be experienced synchronously and persistently by an effectively unlimited number of users with an individual sense of presence, and with continuity of data, such as identity, history, entitlements, objects, communications, and payments
+#### - Matthew Ball, venture capitalist and author of the [Metaverse Primer](https://www.matthewball.vc/about)
 
 A comprehension of the metaverse augurs the appreciation of the constituent components and bit of history.
 
