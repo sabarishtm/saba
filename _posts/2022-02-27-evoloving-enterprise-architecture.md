@@ -25,6 +25,7 @@ Since the dawn of the industrial age, the world has seen multiple waves of evolv
 Each wave had its share of vanquishers and the vanquished: winners and losers. Innovators were the disruptors, unceremoniously unseating the incumbents and reigning supreme… until a new innovator arrived to take their place.
 However, just as it is today, innovation and customer demand by themselves did not guarantee success. It took an eclectic mix of product and process innovation, packaging, timing, risk appetite, combined with oodles of sheer luck to successfully disrupt and scale.
 
+ ![image](https://user-images.githubusercontent.com/73126998/235506841-74efa2fa-799c-4470-b503-9dd55a53fa76.png)
  The Evolution Of Business Models
 
 ## 1900-1950’S
@@ -60,7 +61,9 @@ A successful organization has an enterprise architecture practice that metamorph
 ## A Brief History Of Enterprise Architecture
 In 1987, John A. Zachman, wrote “A Framework for Information Systems Architecture” in the “IBM Systems Journal”. This was the seminal paper that articulated the need for a logical construct to define and control the interfaces and integration of all the components of the system due to “increasing size and complexity of the implementations of information systems”.
 Enterprise architecture has had a far shorter lifespan than industrial business models. Hence it is prudent to view it from the lens of increasing maturity levels rather than a timeline view.
+ ![image](https://user-images.githubusercontent.com/73126998/235506910-42bfa094-eab9-45c8-92bd-469a469f9fcd.png)
  EA Maturity Levels
+ 
 ### Level One
 Driven by the notion that IT was an expense, Enterprise Architecture was evaluated as a “Portfolio of Technology Assets”. The focus of the Enterprise Architect was cost containment – accomplished via complexity reduction and efficiency improvements. The architecture was bottom-up in nature, designed to deliver an enterprise-wide technology view by a team of technology architects.
 ### Level Two
