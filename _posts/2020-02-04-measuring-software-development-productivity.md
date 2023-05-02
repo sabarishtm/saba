@@ -8,7 +8,6 @@ image: Software-Development-Productivity.png
 ---
 
 # Measuring Software Development Productivity
-Posted on:February 4, 2020 Written by:Saba Categorized in:Agile, Analytics, Management, Software Development
 
 > You can’t manage what you can’t measure.
 
