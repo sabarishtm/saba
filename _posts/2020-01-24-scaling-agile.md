@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Measuring Software Development Productivity"
+title: "Scaling Agile"
 author: "Sabarish Muthumperumal"
 categories: codemgmt
 tags: [Agile, Analytics, Management, Software Development]
-image: Software-Development-Productivity.png
+image: Less-Versus-Safe-1.png
 ---
 
 # Scaling Agile
