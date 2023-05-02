@@ -3,7 +3,7 @@ layout: post
 title: "3 Ideas For Defect Free Software, Yes It's Possible"
 author: "Sabarish Muthumperumal"
 categories: codemgmt
-tags: [Management]
+tags: [Software Development, Management]
 image: 3.png
 ---
 
