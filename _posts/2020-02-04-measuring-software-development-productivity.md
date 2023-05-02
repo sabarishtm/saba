@@ -7,8 +7,6 @@ tags: [Agile, Analytics, Management, Software Development]
 image: Software-Development-Productivity.png
 ---
 
-# Measuring Software Development Productivity
-
 > You can’t manage what you can’t measure.
 
 Management guru Peter Drucker is often quoted as saying that “you can’t manage what you can’t measure.” While its possible and quite useful to measure productivity in a manufacturing or services world, is it feasible to do so in the world of software development? Obviously one can count the number or widgets cranked out in a hour, or cups of coffee served or patients attended to in a day – but software? Isn’t that like magic?

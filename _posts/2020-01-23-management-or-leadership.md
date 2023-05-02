@@ -7,8 +7,6 @@ tags: [Management]
 image: MgmtLder.png
 ---
 
-# Management Or Leadership?
-
 A simple search for “leadership” on Amazon, returns 125,215 books; while “management” has 946,376 results. So is management more important than leadership? Case closed… Management is more researched and written/published seven fold more. That’s significant! Case closed.  Management is more relevant and important than Leadership.
 
 However the data scientist in me screamed that there weren’t enough data points…

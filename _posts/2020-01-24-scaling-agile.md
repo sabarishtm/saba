@@ -7,7 +7,6 @@ tags: [Agile, Analytics, Management, Software Development]
 image: Less-Versus-Safe-1.png
 ---
 
-# Scaling Agile
 
 Scrum processes work very well at the individual team level. However, when scaling to larger number of teams problems such as Reliability & Consistency, Quality, Coordination and Communication become a huge challenge. Employing a scaling framework such as LeSS (Large Scale Scrum) or SAFe (Scaled Agile Framework) helps alleviate these challenges.
 
