@@ -17,7 +17,7 @@ Identifying the specific challenges at the portfolio, program and team levels an
 
 While LeSS follows the principle of Less is More and is a Set of rules and principles; SAFe is highly prescriptive on the processes to be followed. SAFe scales well at the portfolio, program and team levels, while LeSS is more at the team level. Inter-team coordination is via a structured, formal release planning process in SAFe. LeSS advocates less structure and relies more on how well team coordinate among themselves. SAFe relies on incremental planning and demo sessions. LeSS relies on Stable, long-lived, cross-functional teams. LeSS focuses on working together to deliver a specific product. SAFe focuses on managing and creating a centralized strategy to deliver value.
 
-| ![image]({{ site.url }}{{ site.baseurl }}//assets/img/Less.png) | ![[image]({{ site.url }}{{ site.baseurl }}//assets/img/SAFe.png) |
+| ![image]({{ site.url }}{{ site.baseurl }}//assets/img/Less.png) | ![image]({{ site.url }}{{ site.baseurl }}//assets/img/SAfe.png) |
 | ------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
 | “More with LeSS”. Is a set of rules and principles                                    | Highly prescriptive on the processes to be followed                          |
 | LeSS works very well at the team level                                                | Scales well at the portfolio, program and team levels                        |
