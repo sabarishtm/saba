@@ -7,9 +7,6 @@ tags: [Management]
 image: cio.png
 ---
 
-# The Role of the CIO
-
-
 > Irrespective of whether the enterprise is fighting for survival, maintaining competitiveness, or breaking away, technology plays a vital and pivotal role. The CIO as the “wielder” of this powerful force must balance innovation, keeping the lights on and removing obstacles and deadweight to thrive in this knowledge economy. What is more, he/she needs to perform with agility, on a tight budget and communicate eloquently while maneuvering forward on uncharted territories.
 
 # Introduction

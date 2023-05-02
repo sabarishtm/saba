@@ -7,7 +7,6 @@ tags: [Software Development, Management]
 image: 3.png
 ---
 
-# 3 Ideas For Defect Free Software, Yes It's Possible
 
 Nothing frustrates Software development managers and software development teams more than defects. It causes project delays, cost overruns and makes you and your team look immature and irresponsible in front of customers. Defect rates, defect density measures and defect reopen counts are the bane of many a development project. Few people can name even one piece of software which they use that has no bugs. A team member once argued that even software packages that have matured over decades such as MS Excel continue to have defects (ironically the team member was a tester)!
 However, over the years developing software and mentoring software development teams I have come to believe that it is possible to get defect free software, by following these 3 ideas –

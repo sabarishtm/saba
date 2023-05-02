@@ -7,7 +7,6 @@ tags: [Analytics, Software Development]
 image: helicopter.jpeg
 ---
 
-# Cricket And Data Science
 
 > “Key to Success – When playing outside Asia, score more than 280, since India loses 73% of the matches defending lower scores”.
 

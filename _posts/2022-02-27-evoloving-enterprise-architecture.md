@@ -7,8 +7,6 @@ tags: [technology]
 image: archi.jpeg
 ---
 
-# Evolving Enterprise Architecture
-
 Born at a time when the CIO did not have a CXO title and reported into the CFO organization, Enterprise Architecture over several decades, has evolved from being a cost of doing business to enabling the business to now being the business.
 What is the next evolutionary step for Enterprise Architecture? The advent of the great restructuring has ushered in new business models, shifting focus from linear value addition to a multi-exponential platform economy.
 

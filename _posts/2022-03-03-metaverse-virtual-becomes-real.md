@@ -8,7 +8,7 @@ image: metaverse.png
 ---
 
 
-# INTRODUCTION
+# Introduction
 If the rapid innovations especially in the past few years are any indication, a slew of seemingly unrelated technological advances will alter the way we live, work, and play in the digital world.
 
 Any change, big or small, is not the result of a single revolutionary or evolutionary development. Instead, it is the result of a complex and intricate network of interconnected advancements that work together.
@@ -27,13 +27,13 @@ A game? A social media platform? A cryptocurrency? Virtual reality? Web 3.0?
 
 The metaverse means several things to several people; and that is because it is not a single tool, device, experience, or even a single platform.
 
-# A DEFINITION
+# A Definition
 > The Metaverse is a massively scaled and interoperable network of real-time rendered 3D virtual worlds which can be experienced synchronously and persistently by an effectively unlimited number of users with an individual sense of presence, and with continuity of data, such as identity, history, entitlements, objects, communications, and payments
 #### - Matthew Ball, venture capitalist and author of the [Metaverse Primer](https://www.matthewball.vc/about)
 
 A comprehension of the metaverse augurs the appreciation of the constituent components and bit of history.
 
-## HISTORY
+## History
 The idea of virtual worlds and the Metaverse isn’t new. It’s just that now we have most of the technology to make it happen.
 
 The first graphical virtual world, known as Habitat, was launched on the Commodore 64 in 1985 by Lucasfilm Games. Second Life has been the leader in virtual world platforms that let people make avatars and have a second life online since it started in 2003.
@@ -48,7 +48,7 @@ These are the foundations of the Metaverse of tomorrow.
 So, when Sir Tim Berners-Lee auctioned the original source code for the world wide web for charity in June 2021, it was only fitting that it was sold as a non-fungible token (NFT).
 
 
-# THE STACK
+# The Stack
 The Metaverse “stack” consists of the Network, the Hardware, the Compute resources, the supporting Platforms, the Interop Standards, the Payments mechanisms, the enabling Services and the Users.
 
 
@@ -60,7 +60,7 @@ Many of the technology components that make up the metaverse have been around fo
 There have been many private and government investments in things like network bandwidth, computing power, and hardware over the years. Interoperability standards, payment systems, and support services are in the early stages of development. There are a wide range of people involved: traditional utility networks, online game developers, social media giants, software and hardware manufacturers, and new-age payment processors.
 
 
-# THE WHAT, WHY, WHO, AND WHEN OF THE METAVERSE STACK
+# The What, Why, Who, And When Of The Metaverse Stack
 
 
 |Stack  | What? | Why?  | Who?  | When? |
@@ -76,21 +76,21 @@ There have been many private and government investments in things like network b
 
 
 
-## NETWORK
+## Network
 Network bandwidth, latency, and reliability are very important to how we can get into and use the metaverse. In the 1990s, the first home dial-up internet services let people get data at speeds of 33.6 kbit/s to 56k kbit/s. A music single would take 10 minutes to download and a movie more than a day. Affordable bandwidth has made Spotify, YouTube, and Netflix possible. Even so, while data latency is acceptable for VOIP in most cases, the lag in video services is perceptible.
 
 A whole new set of technologies and services will need to be made to deal with the huge amounts of data and make sure it’s safe and reliable in real-time.
 
 Subspace, Fastly, Starlink, and other companies are working on new ways to cut down on the lag and make the internet available to the farthest parts of the world (and beyond). In addition, there must be changes in government and regulations, such as 5G, to deal with the last mile distribution problems.
 
-## HARDWARE
+## Hardware
 The global pandemic proved that WFH or remote working was not only possible but also secure, economically viable, and socially responsible. However, the inadequate 2D experience has its limitations when applied to long-term remote work. Additionally, it did precious little for vulnerable frontline workers and blue-collar employees.
 
 AR, VR, and MR technologies have started to close this gap. AR adds to our understanding and abilities in the real world by giving us a virtual overlay of highly relevant digital information. This may have sounded like a sci-fi movie fantasy a few years ago, but today the technology is more mature and has even been made available to the public in applications like Google Maps and Amazon shopping.
 
 While consumer experiences have been impressive, enterprise applications have been even more so.
 
-## COMPUTE
+## Compute
 The short history of computing shows that more computing power always leads to new things. In the opposite way, there has always been a lot more demand for computing than there has been supply.
 
 Even the most advanced online multi-player games can only host a few hundred people at the same time. This is despite all the progress in GPU/CPU capacity and cloud-based computing. If this needs to be used by hundreds, thousands, or even billions of people, we’ll need a lot more computing power than we’ve ever seen or thought about.
@@ -99,28 +99,28 @@ From client-server architecture in the 1980’s to n-tier architecture in the 19
 
 Perhaps quantum computing is the answer or a combination of concepts borrowed from blockchain and Uber. People who solve cryptographic hashes on their laptops and desktops (a “rideshare”) could be paid for their work. This could lead to a new kind of community computing economy.
 
-## PLATFORMS
+## Platforms
 According to Bill Gates, a platform is when the economic value of everybody that uses it, exceeds the value of the company that creates it. To that end, the metaverse is the ultimate platform, a platform of platforms. What constitutes the individual platforms are a set of discrete capabilities. The technology to bring together various digital assets, experiences, and a value-sharing model. In many ways, this is reminiscent of the online gaming economy.
 
 Developers and gamers come together to create experiences and digital assets that are exchanged for a value token. These platforms including Roblox, Minecraft, Grand Theft Auto Online, and Fortnite are leading the way in terms of capabilities and user engagement. Newer blockchain-based technologies from Decentraland, The Sandbox, Cryptovoxels, Somnium Space, and Upland are seeking to take pole position in this race to be the platform of the future.
 
 In January 2022, OpenSea raised $300 million in new venture capital raising its valuation to $13.3 billion. For a marketplace platform that launched barely 4 years ago, that is a “smart contract” indeed! Based on the Ethereum standard, it enables users to generate NFTs for free and offer them for direct purchase or auction.
 
-## INTEROP STANDARDS
+## Interop Standards
 A standard is a set of commonly agreed rules regarding technical systems. History is replete with many such examples of inter-operability standards. It has been easier for people to get into a new technology or service because there has been more standardization of AC current, electrical outlets, Internet Protocols, Blue-Ray disks, HTML, and SWIFT messages.
 
 There are several projects and organizations at work establishing standards for the various constituent components. These include the OpenXR for access to virtual reality and augmented reality platforms and devices from the Khronos Group, Virtual Worlds standards from IEEE, the Virtual world object characteristics from ISO, and the Open Source Metaverse Project.
 
 In the absence of these standards, Metaverse may never realize its true potential.
 
-## PAYMENTS
+## Payments
 As with any successful economy, growth is measured by how many profitable businesses there are in it. For the Metaverse to be a success, the seamless (fast, cheap, flexible, trusted, permissionless, secure, and extensible) flow of money in and out of the economy needs to happen.
 
 However, this area is rife with problems because hardware and platform vendors have too much power over the people who use them. For example, Apple takes a 30% cut of everything bought on the App Store. An individual game developer on the Roblox platform makes less than 25% of every dollar of revenue after paying for Roblox’s infrastructure costs.
 
 One solution despite all its severe shortcomings, gaining traction is cryptocurrency. Smart contracts allow for new, multi-member entities to be created within minutes, avoiding signing documents, credit checks, lawyers, government filings, or even direct knowledge of the members. They also automatically manage all payment flows, governance rights, and information rights.
 
-## SERVICES
+## Services
 When Bill Gates wrote “Content Is King” in 1996, he said, “Content is where I expect much of the real money will be made on the Internet, just as it was in broadcasting.” There was a rush to put up static web fronts in the early days of the “dotcom” era. During this time, many people were driven by FOMO (fear of missing out). Soon, it became clear that “brick and mortar” had to give way to “click and mortar.” When the metaverse opens, “think and avatar” is the new way to do things. Everyone from Nike, the NFL, the NBA, to Louis Vuitton is ramping up their metaverse storefronts.
 
 “Just as every company a few decades ago created a webpage, and then at some point every company created a Facebook page, I think we’re approaching the point where every company will have a real-time live 3D presence, through partnerships with game companies or through games like Fortnite and Minecraft and Roblox. That’s starting to happen now. It’s going to be a much bigger thing than these previous generational shifts.”
@@ -128,13 +128,13 @@ When Bill Gates wrote “Content Is King” in 1996, he said, “Content is wher
 Tim Sweeney (2020)
 If Amazon is the digital mall of today, what powers the virtual mall of the future? Unity, Unreal, Roblox, Nvidia, Autodesk, Facebook, Snap, Niantic, and many more are vying to build and sell the prime virtual commercial real estate.
 
-## USERS
+## Users
 A new technology or platform doesn’t work if users don’t change their behavior and start using it. For every Facebook, there are a lot of MySpaces, Google+s, and Orkuts that people did not use. It took a global pandemic to get millions of people to buy their first groceries online. For the Metaverse to work, it needs people to use it. As curiosity and speculative investment cycles fade, only a strong committed user base will help sustain the network.
 
 While the early adopters are the gamers and speculators, there has been a flurry of activity from non-tech entities including sports brands (NFL, FIFA), entertainment brands (Marvel, Star Wars, DC Comics), clothing brands (Nike, Prada, Louis Vuitton), automobile brands (Ford, Lincoln) and many more.
 
 
-# METAVERSE TODAY AND TOMORROW
+# Metaverse Today And Tomorrow
 Today, the Metaverse today is still quite young with teething troubles and new technologies that need to be developed. The actual design and implementation of the Metaverse will continue to evolve just as the Internet did beyond its original vision of Sir Tim Berners-Lee.
 
 Web 1.0 which lasted from 1991 to the early 2000s was mostly static, but early adopters made significant gains in establishing their Digital identities. Similarly, there are already established components like Augmented Reality and Virtual Reality, as well as newer platforms like content, crypto trading, and NFT platforms, that can be used right away in both the business and consumer worlds.
@@ -154,7 +154,7 @@ For example,
 | Retail | According to CNBC, Walmart submitted seven applications with the US Patent and Trademark Office in December detailing its ambitions to develop its own cryptocurrency, NFTs, payment system, and e-wallets. Zara, Nike, Adidas, and H&M have opened their Metaverse store presence. | The next-generation shopping experience, without the parking hazzleImagine a shoe shopping trip to Dubai, New York, Paris, and London on the same day with all your friends|
 | Fashion | Roblox has hosted special product releases from premium fashion labels, co-created games, and enticed players to access these “things” in return for digital money. | Trying on clothes before you buy them. Virtual weddings call for virtual clothes. (Rent-a-tux for your avatar).|
 
-# HOW DOES ONE PREPARE FOR THE METAVERSE?
+# How Does One Prepare For The Metaverse?
 With so many moving parts and an evolving technology stack, it is imperative that leaders identify, train, and empower team members for the specialized skills that will be needed. One can foresee the following job titles and core skill groups becoming relevant:
 
 | Job Title | Skills  |  Today’s Parallels| 
@@ -165,5 +165,4 @@ With so many moving parts and an evolving technology stack, it is imperative tha
 | Ecosystem Developers	  | Software and hardware interoperability and platforms development	| Enterprise Architects|
 | Cyber-security Experts	| Securing a multitude of new technology interfaces, platforms, sensors. Ability to identify digital fakes	| Cyber-security Experts|
 | Hardware Specialists	  | Traditional infrastructure (hardware, cloud services) and sensory hardware technologies (AR goggles, haptic sensors, etc.,)	| Infrastructure and Systems Support|
-
 Metaverse Jobs
