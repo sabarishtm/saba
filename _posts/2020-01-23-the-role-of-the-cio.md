@@ -4,7 +4,7 @@ title: "The Role of the CIO"
 author: "Sabarish Muthumperumal"
 categories: codemgmt
 tags: [Management]
-image: MgmtLder.png
+image: cio.png
 ---
 
 # The Role of the CIO
