@@ -117,7 +117,9 @@ Organize a “spring-cleaning” of the application landscape – aggressively e
 Over the past few years, applications have become more distributed and have seen increased adoption of mobile interfaces and microservices architectures. In response, organizations have progressively adopted an integration layer strategy. Essentially, an API wrapper around an existing application or system. Resist this temptation. Allocate resources to rearchitect and rebuild these applications with an API first strategy. API’s cannot be an afterthought any longer.
 While you are rearchitecting, reassess your API choice as well. REST (representational state transfer) is all the rage today, but do not discount the applicability of earlier integration modes (SOAP APIs, MFT etc.,) or the newer options (WebSockets, GraphQL etc.,) available.
 Identify the business needs for the information, the nature of the information, the frequency of change, the interested parties, and security while evaluating the appropriate integration mechanism/protocol.
+
 For example,
+
 |Data Type | Data Complexity | Data Changes | Communication | Examples | Consider Using |
 |--- |--- |--- |--- |--- |--- |
 |Transaction Data | Simple | Real-time / Near-Real-time | One-to-One | Payment processing during e-commerce checkout| REST|
